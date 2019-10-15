@@ -15,8 +15,8 @@ please use the following citation if you use this work:
     author={Yasir Hussain and Zhiqiu Huang and Yu Zhou and Senzhang Wang},
     year={2019},
     eprint={1910.05493},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG}
+    url = {http://arxiv.org/abs/1910.05493},
+    archivePrefix={arXiv}
 }
 ```
 
