@@ -13,10 +13,11 @@ please use the following citation if you use this work:
 @article{hussain2019deep,
     title={Deep Transfer Learning for Source Code Modeling},
     author={Yasir Hussain and Zhiqiu Huang and Yu Zhou and Senzhang Wang},
-    year={2019},
-    eprint={1910.05493},
-    url = {http://arxiv.org/abs/1910.05493},
-    archivePrefix={arXiv}
+    journal   = {International Journal of Software Engineering and Knowledge Engineering},
+    volume    = {Vol. 30, No. 05, pp. 649-668},
+    year      = {2020},
+    url       = {https://doi.org/10.1142/S0218194020500230},
+    eprint    = {http://arxiv.org/abs/1910.05493}
 }
 ```
 
